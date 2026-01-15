@@ -35,4 +35,6 @@ Esses indicadores permitem uma visão clara do desempenho comercial e apoiam a t
 ## 🖼️ Visual do Dashboard
 *(Imagem do dashboard abaixo)*
 
+<img width="2000" height="1214" alt="image" src="https://github.com/user-attachments/assets/459a09f7-cff8-4f70-9e2e-9808a1def53a" />
+
 
